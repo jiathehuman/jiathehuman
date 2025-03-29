@@ -1,7 +1,7 @@
 # 👋 About Me:
 📚  Final-year Bsc in Computer Science Student at Goldmiths, University of London<br>
-💼  Diploma in International Business Graduate Cummulative 4.0 Graduate<br>
-☁️  Ask me anything at jiaenteo.01@gmail.com.
+💼  Diploma in International Business Cummulative 4.0 Graduate<br>
+📧  Contact me at jiaenteo.01@gmail.com.
 
 
 # 💻 Tech Stack:
