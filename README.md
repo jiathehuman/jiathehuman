@@ -1,6 +1,4 @@
 # 👋 About Me:
-Hi there! I am Teo Jia En. 
-
 📚  Final-year Bsc in Computer Science Student at Goldmiths, University of London<br>
 💼  Diploma in International Business Cummulative 4.0 Graduate<br>
 📧  Contact me at jiaenteo.01@gmail.com.
