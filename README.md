@@ -5,7 +5,7 @@
 
 # 🚀 Recent Projects:
 
-## 🥞 Full-stack Projects
+## Full-stack Projects
 - Django RESTful Endpoints exploring a Crime dataset provided by the Data Analytics Unit of the Denver Police Departmen, deployed with AWS EB on http://crime-dev.ap-southeast-1.elasticbeanstalk.com/.
 Access: https://github.com/jiathehuman/django-restful-api
 - Blogging web application with ExpressJS, Node.js, EJS and SQLite
@@ -13,7 +13,7 @@ Access: https://github.com/jiathehuman/express-web-application
 - Django and React Authentication application
 https://github.com/jiathehuman/django-react-fs
 
-## 🤖 Machine Learning Projects
+## Machine Learning Projects
 - Dockerised Random Forest classifier deployed with Flask
 - Pneumonic vs. non-pneumonic pediatric lung classification with Convolutional Neural Networks
 - ... and more!
